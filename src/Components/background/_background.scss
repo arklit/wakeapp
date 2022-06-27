@@ -1,0 +1,34 @@
+.background {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  width: 1440px;
+  height: 1111px;
+  object-fit: cover;
+  z-index: 0;
+}
+.background-2 {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  top: 593px;
+  width: 1440px;
+  height: 1070px;
+  object-fit: cover;
+  z-index: 0;
+  opacity: 0.6;
+}
+.image {
+  position: absolute;
+  left: 748px;
+  top: 1178px;
+}
+.img {
+  position: absolute;
+  left: 297px;
+  top: 55px;
+}

@@ -1,0 +1,24 @@
+@import '../fonts/fonts';
+@import '../Components/Header/header';
+@import '../Components/Advertising/advertising';
+@import '../Components/Games/games';
+@import '../Components/Note/note';
+@import '../Components/Contacts/contacts';
+@import '../Components/Footer/footer';
+@import '../Components/background/background';
+@import '../Components/Popup/popup';
+@import '../Components/Loader/loader';
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.page {
+  max-width: 1440px;
+  margin: 0 auto;
+  font-family: "Proxima Nova";
+  position: relative;
+  background: #050D2A;
+  overflow: hidden;
+}
